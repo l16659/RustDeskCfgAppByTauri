@@ -48,5 +48,4 @@ npm run tauri dev
 # 打包发布
 npm run tauri build
 
-```markdown
 ![应用截图](./rustdesk-cfg-app-by-tauri/assets/image.jpg)
